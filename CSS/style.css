@@ -1,0 +1,45 @@
+/*  Header Start */
+.container{
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  background-color: #FFFFFF; 
+
+}
+header{
+  width: 100%;
+  padding: 44px 98px 79px 98px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 2px solid red;
+}
+
+ul{
+  font-weight: 500;
+  display: flex;
+  font-family: 'ubuntu';
+  color: #8172D5;
+  font-size: 24px;
+  gap: 91px;
+}
+/*Section Start */
+  h1{
+    font-size: 37px;
+    font-family: 'Ubuntu';
+    padding-top: 52px;
+    color: #225857;
+   font-weight: 700;
+   line-height: 36.77px;
+   width: 100%;
+  }
+  section:nth-child(1){
+    display: flex;
+  }
+  
+
+    
+    
+   
+    
+    
