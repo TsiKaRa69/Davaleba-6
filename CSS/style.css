@@ -60,8 +60,27 @@ background-color: #FFFFFF;
 }
  /*footer*/
  footer{
-  margin: 0 auto;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  padding-right: 98px;
+  justify-content: space-between;
   background-color:  #758BFD;
-  width: 87%;
-  height: 140px;
  }
+ .glass{
+  width: 449px;
+  height: 64px;
+  background-color: #F2F5F8;
+  border-radius: 10px;
+  margin-left: 98px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  color:#758BFD;
+ }
+ 
+.Footer_logo{
+  margin-right: 10.42px;
+  font-size: 48px;
+  padding: 59px 0 44px 97px;
+}
