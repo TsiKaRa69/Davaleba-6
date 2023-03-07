@@ -75,7 +75,7 @@ footer {
   background-color: #758BFD;
 }
 
-.glass{
+.glass {
   width: 449px;
   height: 64px;
   background-color: #F2F5F8;
@@ -84,7 +84,7 @@ footer {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  color:  #9747FF;
+  color: #9747FF;
 }
 
 .Footer_logo {
@@ -92,7 +92,8 @@ footer {
   font-size: 48px;
   padding: 59px 0 44px 97px;
 }
-.glass_logo{
+
+.glass_logo {
   margin-right: 10.42px;
   font-size: 48px;
 }
